@@ -1,7 +1,0 @@
-{
-    "complierOption": {
-        "moduleResolution": "node",
-        "strict": true
-    },
-    "include": ["**/*ts"]
-}
